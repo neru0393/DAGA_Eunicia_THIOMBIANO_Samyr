@@ -18,3 +18,4 @@ chmod a+x iRedMail.sh;
 sudo bash iRedMail.sh;
 
 #Redemarrage de la machine
+#sudo reboot now
